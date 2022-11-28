@@ -1,3 +1,9 @@
+# Plugins to install
+npm install serverless-aws-documentation serverless reqvalidator-plugin --save-dev
+npm install serverless-webpack --save-dev
+npm install serverless-plugin-tracing 
+npm install serverless-iam-roles-per-function --save-dev
+
 # Serverless TODO
 
 To implement this project, you need to implement a simple TODO application using AWS Lambda and Serverless framework. Search for all comments starting with the `TODO:` in the code to find the placeholders that you need to implement.
